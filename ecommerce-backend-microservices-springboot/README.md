@@ -98,9 +98,6 @@ Each service includes basic unit and integration tests.
 
 Contributions are welcome! Feel free to fork this repo, make improvements, and submit a pull request.
 
-
-Got it! Here's the updated `README.md` with your **contact details added at the end** in the “Author” section. This keeps it clean and professional, while giving credit and making it easy for visitors to reach out:
-
 ---
 
 ## 👤 Author
